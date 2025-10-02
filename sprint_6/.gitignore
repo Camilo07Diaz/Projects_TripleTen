@@ -1,0 +1,10 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env/
