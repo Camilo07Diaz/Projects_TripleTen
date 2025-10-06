@@ -40,7 +40,7 @@ sprint_8.ipynb: Main notebook with data preparation, analysis, visualizations, a
 
 ## How to use this repositoy
 1. Clone the repository. 
-2. Open the file sprint_8.ipynb in Jupyter Notebook or VS Code. 
+2. Open the file sprint_6.ipynb in Jupyter Notebook or VS Code. 
 
 ## Author 
 Camilo Diaz 
