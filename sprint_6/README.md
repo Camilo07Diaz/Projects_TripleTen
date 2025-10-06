@@ -36,7 +36,7 @@ Defined the null and alternative hypotheses, selected an appropriate significanc
 - Jupyter Notebook
 
 ## Contents 
-sprint_8.ipynb: Main notebook with data preparation, analysis, visualizations, and conclusions. 
+sprint_6.ipynb: Main notebook with data preparation, analysis, visualizations, and conclusions. 
 
 ## How to use this repositoy
 1. Clone the repository. 
